@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/aed5f6a6-451d-4036-8eb3-2f184d474741 -->
     <groupId>com.example.application</groupId>
-    <artifactId>langchain-chatgpt</artifactId>
-    <name>langchain-chatgpt</name>
+    <artifactId>langchain-chat</artifactId>
+    <name>langchain-chat</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
