@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-@Theme(value = "spring-boot-react-langchain-chatgpt")
+@Theme(value = "spring-boot-react-langchain-chat")
 public class Application implements AppShellConfigurator {
 
     public static void main(String[] args) {

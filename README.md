@@ -11,4 +11,7 @@
 - OpenAI API key in `OPENAI_API_KEY` environment variable.
 
 ## Running the app
-Run the app by running `Application.java` in your IDE or with the default Maven command `mvn`.
+Run the app by running `Application.java` in your IDE or with the default Maven command `mvn`., For example for dev profiéles
+```
+ mvn spring-boot:run -Dspring-boot.run.profiles=dev
+```
